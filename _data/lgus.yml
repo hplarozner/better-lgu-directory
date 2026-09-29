@@ -578,12 +578,15 @@
   open_for_adoption: false
   maintainer: "[@rodneydelacruz](https://github.com/rodneydelacruz)"
 - name: "Bacoor City, Cavite"
-  domain: "-"
+  domain: "[betterbacoor.org](https://www.betterbacoor.org/)"
   repo: "[GitHub](https://github.com/0phl/betterbacoor)"
   repo_owner: "0phl"
   repo_name: "betterbacoor"
-  socials: []
-  status: "🟡 Work in Progress"
+  socials:
+    - platform: "facebook"
+      label: "Facebook"
+      url: "https://www.facebook.com/people/BetterBacoororg/61594400221717/"
+  status: "🟢 Active"
   stale: false
   open_for_adoption: false
   maintainer: "[@0phl](https://github.com/0phl)"
