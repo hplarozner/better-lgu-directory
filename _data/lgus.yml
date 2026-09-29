@@ -601,13 +601,15 @@
   open_for_adoption: false
   maintainer: "[@RyannKim327](https://github.com/RyannKim327), [@marrrkkk](https://github.com/marrrkkk)"
 - name: "Carigara, Leyte"
-  domain: "-"
-  repo: "-"
+  domain: "[bettercarigara.org](https://bettercarigara.org)"
+  repo: "[GitHub](https://github.com/severinolorillajr/bettercarigara)"
+  repo_owner: "severinolorillajr"
+  repo_name: "bettercarigara"
   socials: []
-  status: "🔵 Planned"
+  status: "🟡 Work in Progress"
   stale: false
   open_for_adoption: false
-  maintainer: "[@dauganz09](https://github.com/dauganz09)"
+  maintainer: "[@dauganz09](https://github.com/dauganz09), [@severinolorillajr](https://github.com/severinolorillajr)"
 - name: "Claver, Surigao del Norte"
   domain: "-"
   repo: "-"
