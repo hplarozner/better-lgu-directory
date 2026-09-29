@@ -1047,9 +1047,11 @@
   maintainer: "[@Diannn3](https://github.com/Diannn3)"
 - name: "Bauang, La Union"
   domain: "-"
-  repo: "-"
+  repo: "[GitHub](https://github.com/loudaboi/betterbauang)"
+  repo_owner: "loudaboi"
+  repo_name: "betterbauang"
   socials: []
-  status: "🔵 Planned"
+  status: "🟡 Work in Progress"
   stale: false
   open_for_adoption: false
   maintainer: "[@loudaboi](https://github.com/loudaboi)"
