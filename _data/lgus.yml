@@ -345,14 +345,14 @@
   maintainer: "[@rolpppp](https://github.com/rolpppp)"
 - name: "Limay, Bataan"
   domain: "[betterlimay.org](https://betterlimay.org/)"
-  repo: "[GitHub](https://github.com/AstroMC98/betterlimay)"
+  repo: "[GitHub](https://github.com/AstroMC98/BetterLimay-Prod)"
   repo_owner: "AstroMC98"
-  repo_name: "betterlimay"
+  repo_name: "BetterLimay-Prod"
   socials:
     - platform: "facebook"
       label: "Facebook"
       url: "https://www.facebook.com/betterlimay.org"
-  status: "🟡 Work in Progress"
+  status: "🟢 Active"
   stale: false
   open_for_adoption: false
   maintainer: "[@AstroMC98](https://github.com/AstroMC98)"
