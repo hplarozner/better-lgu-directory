@@ -1161,3 +1161,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@denver6000](https://github.com/denver6000), [@kurt-farinas](https://github.com/kurt-farinas)"
+- name: "Santa Maria, Bulacan"
+  domain: "-"
+  repo: "[GitHub](https://github.com/josiahjezraelguevarra/BetterSantaMaria)"
+  repo_owner: "josiahjezraelguevarra"
+  repo_name: "BetterSantaMaria"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@josiahjezraelguevarra](https://github.com/josiahjezraelguevarra)"
