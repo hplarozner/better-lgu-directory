@@ -1181,3 +1181,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@severinolorillajr](https://github.com/severinolorillajr)"
+- name: "Albay Province"
+  domain: "-"
+  repo: "[GitHub](https://github.com/jsonrls/better-albay)"
+  repo_owner: "jsonrls"
+  repo_name: "better-albay"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@jsonrls](https://github.com/jsonrls)"
