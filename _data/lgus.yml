@@ -1214,3 +1214,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@ginxFromYt](https://github.com/ginxFromYt)"
+- name: "Calatagan, Batangas"
+  domain: "[bettercalatagan.vercel.app](https://bettercalatagan.vercel.app)"
+  repo: "[GitHub](https://github.com/marcxxv/bettercalatagan)"
+  repo_owner: "marcxxv"
+  repo_name: "bettercalatagan"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@marcxxv](https://github.com/marcxxv)"
