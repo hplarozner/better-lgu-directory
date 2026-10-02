@@ -1224,3 +1224,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@marcxxv](https://github.com/marcxxv)"
+- name: "Valenzuela City, Metro Manila"
+  domain: "-"
+  repo: "[GitHub](https://github.com/JeremyDFabian/bettervalenzuela)"
+  repo_owner: "JeremyDFabian"
+  repo_name: "bettervalenzuela"
+  socials: []
+  status: "🔵 Planned"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@JeremyDFabian](https://github.com/JeremyDFabian)"
