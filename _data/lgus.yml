@@ -995,12 +995,15 @@
   open_for_adoption: false
   maintainer: "[@rieCodes](https://github.com/rieCodes)"
 - name: "City of San Fernando, Pampanga"
-  domain: "-"
+  domain: "[bettersanfernando.org](https://bettersanfernando.org)"
   repo: "[GitHub](https://github.com/bettersanfernando/bettersanfernando)"
   repo_owner: "bettersanfernando"
   repo_name: "bettersanfernando"
-  socials: []
-  status: "🔵 Planned"
+  socials:
+    - platform: "facebook"
+      label: "Facebook"
+      url: "https://www.facebook.com/BetterSanFernandoOrg"
+  status: "🟢 Active"
   stale: false
   open_for_adoption: false
   maintainer: "[@iyawnnn](https://github.com/iyawnnn)"
