@@ -1153,3 +1153,11 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@chariz1101](https://github.com/chariz1101)"
+- name: "San Jose City, Nueva Ecija"
+  domain: "-"
+  repo: "-"
+  socials: []
+  status: "🔵 Planned"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@denver6000](https://github.com/denver6000), [@kurt-farinas](https://github.com/kurt-farinas)"
