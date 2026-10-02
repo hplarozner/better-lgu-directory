@@ -1191,3 +1191,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@jsonrls](https://github.com/jsonrls)"
+- name: "Gattaran, Cagayan"
+  domain: "[bettergattaran.org](https://bettergattaran.org)"
+  repo: "[GitHub](https://github.com/ginxFromYt/bettergattaran)"
+  repo_owner: "ginxFromYt"
+  repo_name: "bettergattaran"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@ginxFromYt](https://github.com/ginxFromYt)"
