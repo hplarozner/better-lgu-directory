@@ -244,6 +244,16 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@egiebk](https://github.com/egiebk)"
+- name: "Lal-lo, Cagayan Valley"
+  domain: "[betterlallo.org](https://betterlallo.org)"
+  repo: "[GitHub](https://github.com/ianlabicani/betterlallo)"
+  repo_owner: "ianlabicani"
+  repo_name: "betterlallo"
+  socials: []
+  status: "🟢 Active"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@ianlabicani](https://github.com/ianlabicani)"
 - name: "San Pablo, Laguna"
   domain: "[bettersanpablo.org](https://www.bettersanpablo.org/)"
   repo: "[GitHub](https://github.com/ChristiannWick/bettersanpablo)"
