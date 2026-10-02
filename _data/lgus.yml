@@ -1171,3 +1171,13 @@
   stale: false
   open_for_adoption: false
   maintainer: "[@josiahjezraelguevarra](https://github.com/josiahjezraelguevarra)"
+- name: "Alangalang, Leyte"
+  domain: "-"
+  repo: "[GitHub](https://github.com/severinolorillajr/betteralangalang)"
+  repo_owner: "severinolorillajr"
+  repo_name: "betteralangalang"
+  socials: []
+  status: "🟡 Work in Progress"
+  stale: false
+  open_for_adoption: false
+  maintainer: "[@severinolorillajr](https://github.com/severinolorillajr)"
